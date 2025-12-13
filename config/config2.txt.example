@@ -1,0 +1,19 @@
+# WiFi mode: AP | STA | AP_STA
+wifi_mode=STA
+
+# STA settings
+sta_ssid=wWw
+sta_password=11115555
+
+# AP settings
+ap_ssid=ESP32-DASHCAM
+ap_password=12345678
+
+# Board type
+board=esp32_s3
+
+# Camera
+camera=ov2640
+
+# Recording
+auto_record=true
